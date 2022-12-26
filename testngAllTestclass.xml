@@ -12,5 +12,6 @@
       <class name="Com.Banking.TestCases.TC_Add_NewCustomer"/>
       <class name="Com.Banking.TestCases.TC_LoginTestCase"/>
     </classes>
+    
   </test> <!-- Test -->
 </suite> <!-- Suite -->
