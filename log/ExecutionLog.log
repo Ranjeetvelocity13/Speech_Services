@@ -1,0 +1,606 @@
+2022-12-20 20:23:02,169 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-20 20:23:02,218 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-20 20:23:02,575 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-20 20:23:02,709 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-20 20:23:07,529 - 23JulyAutomation Framework -INFO - Test case passed
+2022-12-20 20:30:44,481 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-20 20:30:44,542 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-20 20:30:44,892 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-20 20:30:45,011 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-20 20:30:49,560 - 23JulyAutomation Framework -INFO - Test case passed
+2022-12-21 19:31:07,352 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-21 19:31:07,416 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-21 19:31:08,018 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-21 19:31:08,418 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-21 19:31:12,805 - 23JulyAutomation Framework -INFO - Test case passed
+2022-12-21 19:55:47,934 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-21 19:55:48,044 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-21 19:55:48,499 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-21 19:55:48,668 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-21 20:16:24,403 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-21 20:16:24,435 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-21 20:16:24,743 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-21 20:16:24,863 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-21 20:36:00,556 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-21 20:36:00,589 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-21 20:36:01,408 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-21 20:36:01,667 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-21 20:36:10,331 - 23JulyAutomation Framework -INFO - Click in add new customer tab
+2022-12-21 20:38:30,639 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-21 20:38:30,674 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-21 20:38:31,125 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-21 20:38:31,244 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-21 20:38:36,547 - 23JulyAutomation Framework -INFO - Click in add new customer tab
+2022-12-21 20:38:56,200 - 23JulyAutomation Framework -INFO - Enter customer name
+2022-12-21 20:56:37,086 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-21 20:56:37,120 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-21 20:56:37,466 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-21 20:56:37,589 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-21 20:56:42,362 - 23JulyAutomation Framework -INFO - Test case passed
+2022-12-21 20:57:02,863 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-21 20:57:02,872 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-21 20:57:03,777 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-21 20:57:04,043 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-21 20:57:08,396 - 23JulyAutomation Framework -INFO - Click in add new customer tab
+2022-12-21 20:57:12,505 - 23JulyAutomation Framework -INFO - Click in add new customer tab
+2022-12-21 20:57:12,607 - 23JulyAutomation Framework -INFO - Enter customer name
+2022-12-21 20:57:12,656 - 23JulyAutomation Framework -INFO - Select gender
+2022-12-21 20:57:12,912 - 23JulyAutomation Framework -INFO - Select DOB
+2022-12-21 20:57:12,985 - 23JulyAutomation Framework -INFO - Enter address
+2022-12-21 20:57:13,018 - 23JulyAutomation Framework -INFO - Select City
+2022-12-21 20:57:13,079 - 23JulyAutomation Framework -INFO - Select state
+2022-12-21 20:57:13,163 - 23JulyAutomation Framework -INFO - Enter Pin number
+2022-12-21 20:57:13,230 - 23JulyAutomation Framework -INFO - Enter mobile number
+2022-12-21 20:57:13,305 - 23JulyAutomation Framework -INFO - Enter email address
+2022-12-21 20:58:30,399 - 23JulyAutomation Framework -INFO - Enter Passowrd 
+2022-12-21 21:00:50,049 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-21 21:00:50,090 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-21 21:00:50,716 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-21 21:00:50,862 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-21 21:00:59,147 - 23JulyAutomation Framework -INFO - Click in add new customer tab
+2022-12-21 21:01:03,757 - 23JulyAutomation Framework -INFO - Click in add new customer tab
+2022-12-21 21:01:03,838 - 23JulyAutomation Framework -INFO - Enter customer name
+2022-12-21 21:01:03,930 - 23JulyAutomation Framework -INFO - Select gender
+2022-12-21 21:01:04,238 - 23JulyAutomation Framework -INFO - Select DOB
+2022-12-21 21:01:04,327 - 23JulyAutomation Framework -INFO - Enter address
+2022-12-21 21:01:04,372 - 23JulyAutomation Framework -INFO - Select City
+2022-12-21 21:01:04,467 - 23JulyAutomation Framework -INFO - Select state
+2022-12-21 21:01:04,535 - 23JulyAutomation Framework -INFO - Enter Pin number
+2022-12-21 21:01:04,584 - 23JulyAutomation Framework -INFO - Enter mobile number
+2022-12-21 21:01:04,686 - 23JulyAutomation Framework -INFO - Enter email address
+2022-12-21 21:02:53,078 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-21 21:02:53,119 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-21 21:02:53,755 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-21 21:02:53,938 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-21 21:03:01,099 - 23JulyAutomation Framework -INFO - Click in add new customer tab
+2022-12-21 21:03:06,920 - 23JulyAutomation Framework -INFO - Click in add new customer tab
+2022-12-21 21:03:07,004 - 23JulyAutomation Framework -INFO - Enter customer name
+2022-12-21 21:03:07,042 - 23JulyAutomation Framework -INFO - Select gender
+2022-12-21 21:03:07,207 - 23JulyAutomation Framework -INFO - Select DOB
+2022-12-21 21:03:07,280 - 23JulyAutomation Framework -INFO - Enter address
+2022-12-21 21:03:07,321 - 23JulyAutomation Framework -INFO - Select City
+2022-12-21 21:03:07,552 - 23JulyAutomation Framework -INFO - Select state
+2022-12-21 21:03:07,604 - 23JulyAutomation Framework -INFO - Enter Pin number
+2022-12-21 21:03:07,662 - 23JulyAutomation Framework -INFO - Enter mobile number
+2022-12-21 21:03:07,780 - 23JulyAutomation Framework -INFO - Enter email address
+2022-12-21 21:16:26,271 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-21 21:16:26,307 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-21 21:16:26,786 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-21 21:16:26,913 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-21 21:16:35,010 - 23JulyAutomation Framework -INFO - Click in add new customer tab
+2022-12-21 21:16:44,274 - 23JulyAutomation Framework -INFO - Click in add new customer tab
+2022-12-21 21:16:44,367 - 23JulyAutomation Framework -INFO - Enter customer name
+2022-12-21 21:16:44,405 - 23JulyAutomation Framework -INFO - Select gender
+2022-12-21 21:16:44,664 - 23JulyAutomation Framework -INFO - Select DOB
+2022-12-21 21:16:44,739 - 23JulyAutomation Framework -INFO - Enter address
+2022-12-21 21:16:44,796 - 23JulyAutomation Framework -INFO - Select City
+2022-12-21 21:16:44,864 - 23JulyAutomation Framework -INFO - Select state
+2022-12-21 21:16:44,915 - 23JulyAutomation Framework -INFO - Enter Pin number
+2022-12-21 21:16:44,954 - 23JulyAutomation Framework -INFO - Enter mobile number
+2022-12-21 21:16:45,037 - 23JulyAutomation Framework -INFO - Enter email address
+2022-12-21 21:20:43,565 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-21 21:20:43,604 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-21 21:20:44,009 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-21 21:20:44,132 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-21 21:20:48,779 - 23JulyAutomation Framework -INFO - Click in add new customer tab
+2022-12-21 21:20:52,867 - 23JulyAutomation Framework -INFO - Click in add new customer tab
+2022-12-21 21:20:52,950 - 23JulyAutomation Framework -INFO - Enter customer name
+2022-12-21 21:20:53,001 - 23JulyAutomation Framework -INFO - Select gender
+2022-12-21 21:20:53,303 - 23JulyAutomation Framework -INFO - Select DOB
+2022-12-21 21:20:53,598 - 23JulyAutomation Framework -INFO - Enter address
+2022-12-21 21:20:53,652 - 23JulyAutomation Framework -INFO - Select City
+2022-12-21 21:20:53,694 - 23JulyAutomation Framework -INFO - Select state
+2022-12-21 21:20:53,742 - 23JulyAutomation Framework -INFO - Enter Pin number
+2022-12-21 21:20:53,783 - 23JulyAutomation Framework -INFO - Enter mobile number
+2022-12-21 21:20:53,880 - 23JulyAutomation Framework -INFO - Enter email address
+2022-12-21 21:28:37,504 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-21 21:28:37,534 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-21 21:28:38,113 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-21 21:28:38,611 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-21 21:28:43,267 - 23JulyAutomation Framework -INFO - Click in add new customer tab
+2022-12-21 21:28:47,412 - 23JulyAutomation Framework -INFO - Click in add new customer tab
+2022-12-21 21:28:47,519 - 23JulyAutomation Framework -INFO - Enter customer name
+2022-12-21 21:28:47,561 - 23JulyAutomation Framework -INFO - Select gender
+2022-12-21 21:28:48,042 - 23JulyAutomation Framework -INFO - Select DOB
+2022-12-21 21:28:48,182 - 23JulyAutomation Framework -INFO - Enter address
+2022-12-21 21:28:48,284 - 23JulyAutomation Framework -INFO - Select City
+2022-12-21 21:28:48,337 - 23JulyAutomation Framework -INFO - Select state
+2022-12-21 21:28:48,379 - 23JulyAutomation Framework -INFO - Enter Pin number
+2022-12-21 21:28:48,423 - 23JulyAutomation Framework -INFO - Enter mobile number
+2022-12-21 21:28:48,472 - 23JulyAutomation Framework -INFO - Enter email address
+2022-12-21 21:30:21,601 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-21 21:30:21,635 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-21 21:30:22,006 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-21 21:30:22,146 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-21 21:30:51,967 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-21 21:30:51,981 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-21 21:30:52,924 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-21 21:30:53,031 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-21 21:30:58,352 - 23JulyAutomation Framework -INFO - Click in add new customer tab
+2022-12-21 21:31:03,289 - 23JulyAutomation Framework -INFO - Click in add new customer tab
+2022-12-21 21:31:03,429 - 23JulyAutomation Framework -INFO - Enter customer name
+2022-12-21 21:31:03,693 - 23JulyAutomation Framework -INFO - Select gender
+2022-12-21 21:31:03,871 - 23JulyAutomation Framework -INFO - Select DOB
+2022-12-21 21:31:04,002 - 23JulyAutomation Framework -INFO - Enter address
+2022-12-21 21:31:04,099 - 23JulyAutomation Framework -INFO - Select City
+2022-12-21 21:31:04,161 - 23JulyAutomation Framework -INFO - Select state
+2022-12-21 21:31:04,245 - 23JulyAutomation Framework -INFO - Enter Pin number
+2022-12-21 21:31:04,297 - 23JulyAutomation Framework -INFO - Enter mobile number
+2022-12-21 21:31:04,362 - 23JulyAutomation Framework -INFO - Enter email address
+2022-12-21 21:31:04,494 - 23JulyAutomation Framework -INFO - Enter Passowrd 
+2022-12-21 21:37:48,078 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-21 21:37:48,112 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-21 21:37:48,607 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-21 21:37:49,227 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-21 21:37:53,992 - 23JulyAutomation Framework -INFO - Test case passed
+2022-12-21 21:38:37,375 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-21 21:38:37,379 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-21 21:38:38,000 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-21 21:38:38,198 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-21 21:38:42,347 - 23JulyAutomation Framework -INFO - Click in add new customer tab
+2022-12-21 21:38:48,112 - 23JulyAutomation Framework -INFO - Click in add new customer tab
+2022-12-21 21:38:48,284 - 23JulyAutomation Framework -INFO - Enter customer name
+2022-12-21 21:38:48,496 - 23JulyAutomation Framework -INFO - Select gender
+2022-12-21 21:38:48,645 - 23JulyAutomation Framework -INFO - Select DOB
+2022-12-21 21:38:48,725 - 23JulyAutomation Framework -INFO - Enter address
+2022-12-21 21:38:48,798 - 23JulyAutomation Framework -INFO - Select City
+2022-12-21 21:38:48,850 - 23JulyAutomation Framework -INFO - Select state
+2022-12-21 21:38:48,892 - 23JulyAutomation Framework -INFO - Enter Pin number
+2022-12-21 21:38:48,941 - 23JulyAutomation Framework -INFO - Enter mobile number
+2022-12-21 21:38:48,996 - 23JulyAutomation Framework -INFO - Enter email address
+2022-12-21 21:38:49,066 - 23JulyAutomation Framework -INFO - Enter Passowrd 
+2022-12-21 21:38:54,246 - 23JulyAutomation Framework -INFO - User Created
+2022-12-22 19:51:18,672 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-22 19:51:20,233 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-22 19:51:20,493 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-22 19:51:24,694 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-22 19:51:25,075 - 23JulyAutomation Framework -INFO - Click on New Account tab
+2022-12-22 19:51:28,543 - 23JulyAutomation Framework -INFO - Click on New Account tab
+2022-12-22 19:51:28,639 - 23JulyAutomation Framework -INFO - Enter Customer ID
+2022-12-22 19:51:28,673 - 23JulyAutomation Framework -INFO - Enter deposit value
+2022-12-22 19:51:31,981 - 23JulyAutomation Framework -INFO - Click on the submit button
+2022-12-22 19:51:32,021 - 23JulyAutomation Framework -INFO - Account Created
+2022-12-22 20:56:30,852 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-22 20:56:30,890 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-22 20:56:31,274 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-22 20:56:31,386 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-22 20:56:36,488 - 23JulyAutomation Framework -INFO - Login Passed
+2022-12-22 20:57:04,611 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-22 20:57:04,616 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-22 20:57:05,035 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-22 20:57:05,657 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-22 20:57:14,385 - 23JulyAutomation Framework -INFO - LoginFailed
+2022-12-22 20:57:31,687 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-22 20:57:31,701 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-22 20:57:33,015 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-22 20:57:33,308 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-22 20:57:41,238 - 23JulyAutomation Framework -INFO - LoginFailed
+2022-12-22 20:58:00,433 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-22 20:58:00,440 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-22 20:58:00,785 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-22 20:58:00,927 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-22 20:58:07,638 - 23JulyAutomation Framework -INFO - LoginFailed
+2022-12-22 20:58:26,314 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-22 20:58:26,326 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-22 20:58:27,031 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-22 20:58:27,402 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-22 20:58:33,949 - 23JulyAutomation Framework -INFO - LoginFailed
+2022-12-22 21:12:31,141 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-22 21:12:31,171 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-22 21:12:33,055 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-22 21:12:33,342 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-22 21:12:37,377 - 23JulyAutomation Framework -INFO - Click in add new customer tab
+2022-12-22 21:12:41,211 - 23JulyAutomation Framework -INFO - Click in add new customer tab
+2022-12-22 21:12:41,294 - 23JulyAutomation Framework -INFO - Enter customer name
+2022-12-22 21:12:41,331 - 23JulyAutomation Framework -INFO - Select gender
+2022-12-22 21:12:41,608 - 23JulyAutomation Framework -INFO - Select DOB
+2022-12-22 21:12:41,688 - 23JulyAutomation Framework -INFO - Enter address
+2022-12-22 21:12:41,756 - 23JulyAutomation Framework -INFO - Select City
+2022-12-22 21:12:41,811 - 23JulyAutomation Framework -INFO - Select state
+2022-12-22 21:12:41,869 - 23JulyAutomation Framework -INFO - Enter Pin number
+2022-12-22 21:12:41,908 - 23JulyAutomation Framework -INFO - Enter mobile number
+2022-12-22 21:12:41,955 - 23JulyAutomation Framework -INFO - Enter email address
+2022-12-22 21:12:42,032 - 23JulyAutomation Framework -INFO - Enter Passowrd 
+2022-12-22 21:12:45,374 - 23JulyAutomation Framework -INFO - User Created
+2022-12-22 21:13:02,736 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-22 21:13:02,739 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-22 21:13:04,123 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-22 21:13:04,465 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-22 21:13:09,726 - 23JulyAutomation Framework -INFO - Test case passed
+2022-12-22 21:13:27,190 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-22 21:13:27,194 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-22 21:13:27,886 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-22 21:13:28,779 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-22 21:13:33,024 - 23JulyAutomation Framework -INFO - Login Passed
+2022-12-22 21:14:01,811 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-22 21:14:01,822 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-22 21:14:02,614 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-22 21:14:02,748 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-22 21:14:10,453 - 23JulyAutomation Framework -INFO - LoginFailed
+2022-12-22 21:17:03,751 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-22 21:17:03,786 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-22 21:17:04,319 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-22 21:17:04,418 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-22 21:17:09,397 - 23JulyAutomation Framework -INFO - Click in add new customer tab
+2022-12-22 21:17:13,253 - 23JulyAutomation Framework -INFO - Click in add new customer tab
+2022-12-22 21:17:13,341 - 23JulyAutomation Framework -INFO - Enter customer name
+2022-12-22 21:17:13,437 - 23JulyAutomation Framework -INFO - Select gender
+2022-12-22 21:17:13,849 - 23JulyAutomation Framework -INFO - Select DOB
+2022-12-22 21:17:13,923 - 23JulyAutomation Framework -INFO - Enter address
+2022-12-22 21:17:14,001 - 23JulyAutomation Framework -INFO - Select City
+2022-12-22 21:17:14,044 - 23JulyAutomation Framework -INFO - Select state
+2022-12-22 21:17:14,084 - 23JulyAutomation Framework -INFO - Enter Pin number
+2022-12-22 21:17:14,121 - 23JulyAutomation Framework -INFO - Enter mobile number
+2022-12-22 21:17:14,175 - 23JulyAutomation Framework -INFO - Enter email address
+2022-12-22 21:17:14,227 - 23JulyAutomation Framework -INFO - Enter Passowrd 
+2022-12-22 21:18:33,412 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-22 21:18:33,417 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-22 21:18:34,400 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-22 21:18:34,514 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-22 21:18:38,232 - 23JulyAutomation Framework -INFO - Login Passed
+2022-12-22 21:19:08,386 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-22 21:19:08,390 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-22 21:19:08,965 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-22 21:19:09,395 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-22 21:19:16,209 - 23JulyAutomation Framework -INFO - LoginFailed
+2022-12-22 21:19:34,268 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-22 21:19:34,271 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-22 21:19:35,730 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-22 21:19:35,926 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-22 21:19:43,025 - 23JulyAutomation Framework -INFO - LoginFailed
+2022-12-22 21:20:04,188 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-22 21:20:04,194 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-22 21:20:04,507 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-22 21:20:04,696 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-22 21:20:12,559 - 23JulyAutomation Framework -INFO - LoginFailed
+2022-12-22 21:20:31,398 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-22 21:20:31,404 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-22 21:20:31,760 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-22 21:20:31,857 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-22 21:20:38,757 - 23JulyAutomation Framework -INFO - LoginFailed
+2022-12-22 21:21:01,816 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-22 21:21:02,539 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-22 21:21:02,732 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-22 21:21:06,721 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-22 21:21:06,928 - 23JulyAutomation Framework -INFO - Click on New Account tab
+2022-12-22 21:21:10,642 - 23JulyAutomation Framework -INFO - Click on New Account tab
+2022-12-22 21:21:10,720 - 23JulyAutomation Framework -INFO - Enter Customer ID
+2022-12-22 21:21:10,758 - 23JulyAutomation Framework -INFO - Enter deposit value
+2022-12-22 21:21:13,935 - 23JulyAutomation Framework -INFO - Click on the submit button
+2022-12-22 21:21:13,970 - 23JulyAutomation Framework -INFO - Account Created
+2022-12-22 21:29:17,538 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-22 21:29:17,931 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-22 21:29:18,031 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-22 21:29:21,860 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-22 21:29:23,123 - 23JulyAutomation Framework -INFO - Click on New Account tab
+2022-12-22 21:29:27,286 - 23JulyAutomation Framework -INFO - Click on New Account tab
+2022-12-22 21:29:27,353 - 23JulyAutomation Framework -INFO - Enter Customer ID
+2022-12-22 21:29:27,388 - 23JulyAutomation Framework -INFO - Enter deposit value
+2022-12-22 21:29:31,320 - 23JulyAutomation Framework -INFO - Click on the submit button
+2022-12-22 21:29:31,367 - 23JulyAutomation Framework -INFO - Account Created
+2022-12-22 21:29:52,639 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-22 21:29:52,644 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-22 21:29:53,596 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-22 21:29:53,765 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-22 21:29:57,818 - 23JulyAutomation Framework -INFO - Login Passed
+2022-12-22 21:30:28,232 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-22 21:30:28,236 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-22 21:30:29,035 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-22 21:30:29,172 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-22 21:30:36,703 - 23JulyAutomation Framework -INFO - LoginFailed
+2022-12-22 21:30:54,314 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-22 21:30:54,344 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-22 21:30:54,698 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-22 21:30:54,816 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-22 21:31:03,823 - 23JulyAutomation Framework -INFO - LoginFailed
+2022-12-22 21:31:29,320 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-22 21:31:29,325 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-22 21:31:29,853 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-22 21:31:30,019 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-22 21:31:37,786 - 23JulyAutomation Framework -INFO - LoginFailed
+2022-12-22 21:31:58,415 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-22 21:31:58,423 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-22 21:31:59,129 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-22 21:31:59,322 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-22 21:32:07,178 - 23JulyAutomation Framework -INFO - LoginFailed
+2022-12-22 21:32:27,185 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-22 21:32:27,205 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-22 21:32:28,062 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-22 21:32:28,168 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-22 21:32:32,507 - 23JulyAutomation Framework -INFO - Click in add new customer tab
+2022-12-22 21:32:36,248 - 23JulyAutomation Framework -INFO - Click in add new customer tab
+2022-12-22 21:32:36,299 - 23JulyAutomation Framework -INFO - Enter customer name
+2022-12-22 21:32:36,482 - 23JulyAutomation Framework -INFO - Select gender
+2022-12-22 21:32:36,620 - 23JulyAutomation Framework -INFO - Select DOB
+2022-12-22 21:32:36,707 - 23JulyAutomation Framework -INFO - Enter address
+2022-12-22 21:32:36,780 - 23JulyAutomation Framework -INFO - Select City
+2022-12-22 21:32:36,821 - 23JulyAutomation Framework -INFO - Select state
+2022-12-22 21:32:36,860 - 23JulyAutomation Framework -INFO - Enter Pin number
+2022-12-22 21:32:36,909 - 23JulyAutomation Framework -INFO - Enter mobile number
+2022-12-22 21:32:36,993 - 23JulyAutomation Framework -INFO - Enter email address
+2022-12-22 21:32:37,033 - 23JulyAutomation Framework -INFO - Enter Passowrd 
+2022-12-22 21:32:40,156 - 23JulyAutomation Framework -INFO - User Created
+2022-12-22 21:32:59,997 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-22 21:33:00,002 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-22 21:33:00,415 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-22 21:33:01,388 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-22 21:33:05,394 - 23JulyAutomation Framework -INFO - Test case passed
+2022-12-23 18:40:13,782 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-23 18:40:14,164 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-23 18:40:14,270 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-23 18:40:18,578 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-23 18:40:19,040 - 23JulyAutomation Framework -INFO - Click on New Account tab
+2022-12-23 18:40:22,750 - 23JulyAutomation Framework -INFO - Click on New Account tab
+2022-12-23 18:40:22,814 - 23JulyAutomation Framework -INFO - Enter Customer ID
+2022-12-23 18:40:22,851 - 23JulyAutomation Framework -INFO - Enter deposit value
+2022-12-23 18:40:26,195 - 23JulyAutomation Framework -INFO - Click on the submit button
+2022-12-23 18:40:26,244 - 23JulyAutomation Framework -INFO - Account Created
+2022-12-23 18:40:44,339 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-23 18:40:44,345 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-23 18:40:45,284 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-23 18:40:46,668 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-23 18:40:51,635 - 23JulyAutomation Framework -INFO - Login Passed
+2022-12-23 18:41:17,965 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-23 18:41:17,970 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-23 18:41:18,531 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-23 18:41:19,475 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-23 18:41:27,503 - 23JulyAutomation Framework -INFO - LoginFailed
+2022-12-23 18:41:43,814 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-23 18:41:43,825 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-23 18:41:45,431 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-23 18:41:45,627 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-23 18:41:52,799 - 23JulyAutomation Framework -INFO - LoginFailed
+2022-12-23 18:42:08,915 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-23 18:42:08,924 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-23 18:42:09,435 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-23 18:42:10,248 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-23 18:42:18,191 - 23JulyAutomation Framework -INFO - LoginFailed
+2022-12-23 18:42:34,400 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-23 18:42:34,403 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-23 18:42:35,916 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-23 18:42:36,197 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-23 18:42:43,726 - 23JulyAutomation Framework -INFO - LoginFailed
+2022-12-23 18:43:00,156 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-23 18:43:00,160 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-23 18:43:00,704 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-23 18:43:00,872 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-23 18:43:06,031 - 23JulyAutomation Framework -INFO - Click in add new customer tab
+2022-12-23 18:43:09,940 - 23JulyAutomation Framework -INFO - Click in add new customer tab
+2022-12-23 18:43:10,057 - 23JulyAutomation Framework -INFO - Enter customer name
+2022-12-23 18:43:10,171 - 23JulyAutomation Framework -INFO - Select gender
+2022-12-23 18:43:10,476 - 23JulyAutomation Framework -INFO - Select DOB
+2022-12-23 18:43:10,554 - 23JulyAutomation Framework -INFO - Enter address
+2022-12-23 18:43:10,623 - 23JulyAutomation Framework -INFO - Select City
+2022-12-23 18:43:10,672 - 23JulyAutomation Framework -INFO - Select state
+2022-12-23 18:43:10,712 - 23JulyAutomation Framework -INFO - Enter Pin number
+2022-12-23 18:43:10,749 - 23JulyAutomation Framework -INFO - Enter mobile number
+2022-12-23 18:43:10,794 - 23JulyAutomation Framework -INFO - Enter email address
+2022-12-23 18:43:10,858 - 23JulyAutomation Framework -INFO - Enter Passowrd 
+2022-12-23 18:43:14,159 - 23JulyAutomation Framework -INFO - User Created
+2022-12-23 18:43:31,068 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-23 18:43:31,087 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-23 18:43:31,744 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-23 18:43:31,907 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-23 18:47:23,908 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-23 18:47:23,945 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-23 18:47:24,573 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-23 18:47:24,728 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-23 18:47:27,947 - 23JulyAutomation Framework -INFO - Test case passed
+2022-12-23 19:38:15,807 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-23 19:38:16,449 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-23 19:38:16,615 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-23 19:38:22,267 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-23 19:38:22,463 - 23JulyAutomation Framework -INFO - Click on New Account tab
+2022-12-23 19:38:26,515 - 23JulyAutomation Framework -INFO - Click on New Account tab
+2022-12-23 19:38:26,593 - 23JulyAutomation Framework -INFO - Enter Customer ID
+2022-12-23 19:38:26,629 - 23JulyAutomation Framework -INFO - Enter deposit value
+2022-12-23 19:38:29,729 - 23JulyAutomation Framework -INFO - Click on the submit button
+2022-12-23 19:38:29,772 - 23JulyAutomation Framework -INFO - Account Created
+2022-12-23 19:38:47,432 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-23 19:38:47,436 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-23 19:38:48,069 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-23 19:38:49,196 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-23 19:38:54,024 - 23JulyAutomation Framework -INFO - Click in add new customer tab
+2022-12-23 19:38:59,577 - 23JulyAutomation Framework -INFO - Click in add new customer tab
+2022-12-23 19:38:59,707 - 23JulyAutomation Framework -INFO - Enter customer name
+2022-12-23 19:38:59,900 - 23JulyAutomation Framework -INFO - Select gender
+2022-12-23 19:39:00,066 - 23JulyAutomation Framework -INFO - Select DOB
+2022-12-23 19:39:00,135 - 23JulyAutomation Framework -INFO - Enter address
+2022-12-23 19:39:00,202 - 23JulyAutomation Framework -INFO - Select City
+2022-12-23 19:39:00,243 - 23JulyAutomation Framework -INFO - Select state
+2022-12-23 19:39:00,289 - 23JulyAutomation Framework -INFO - Enter Pin number
+2022-12-23 19:39:00,345 - 23JulyAutomation Framework -INFO - Enter mobile number
+2022-12-23 19:39:00,400 - 23JulyAutomation Framework -INFO - Enter email address
+2022-12-23 19:39:00,451 - 23JulyAutomation Framework -INFO - Enter Passowrd 
+2022-12-23 19:39:24,041 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-23 19:39:24,048 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-23 19:39:24,649 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-23 19:39:25,619 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-23 19:41:54,094 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-23 19:41:54,132 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-23 19:41:55,590 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-23 19:41:55,738 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-23 19:41:59,554 - 23JulyAutomation Framework -INFO - Test case passed
+2022-12-23 19:42:19,930 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-23 19:42:19,932 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-23 19:42:20,441 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-23 19:42:20,951 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-23 19:42:25,391 - 23JulyAutomation Framework -INFO - Click in add new customer tab
+2022-12-23 19:42:29,384 - 23JulyAutomation Framework -INFO - Click in add new customer tab
+2022-12-23 19:42:29,494 - 23JulyAutomation Framework -INFO - Enter customer name
+2022-12-23 19:42:29,827 - 23JulyAutomation Framework -INFO - Select gender
+2022-12-23 19:42:29,994 - 23JulyAutomation Framework -INFO - Select DOB
+2022-12-23 19:42:30,089 - 23JulyAutomation Framework -INFO - Enter address
+2022-12-23 19:42:30,170 - 23JulyAutomation Framework -INFO - Select City
+2022-12-23 19:42:30,223 - 23JulyAutomation Framework -INFO - Select state
+2022-12-23 19:42:30,283 - 23JulyAutomation Framework -INFO - Enter Pin number
+2022-12-23 19:42:30,354 - 23JulyAutomation Framework -INFO - Enter mobile number
+2022-12-23 19:42:30,399 - 23JulyAutomation Framework -INFO - Enter email address
+2022-12-23 19:42:30,453 - 23JulyAutomation Framework -INFO - Enter Passowrd 
+2022-12-23 19:42:33,950 - 23JulyAutomation Framework -INFO - User Created
+2022-12-23 19:51:09,912 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-23 19:51:10,364 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-23 19:51:10,960 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-23 19:51:15,189 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-23 19:51:15,806 - 23JulyAutomation Framework -INFO - Click on New Account tab
+2022-12-23 19:51:19,785 - 23JulyAutomation Framework -INFO - Click on New Account tab
+2022-12-23 19:51:19,892 - 23JulyAutomation Framework -INFO - Enter Customer ID
+2022-12-23 19:51:20,161 - 23JulyAutomation Framework -INFO - Enter deposit value
+2022-12-23 19:51:22,977 - 23JulyAutomation Framework -INFO - Click on the submit button
+2022-12-23 19:51:23,019 - 23JulyAutomation Framework -INFO - Account Created
+2022-12-23 19:51:41,470 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-23 19:51:41,476 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-23 19:51:42,822 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-23 19:51:43,115 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-23 19:51:47,924 - 23JulyAutomation Framework -INFO - Click in add new customer tab
+2022-12-23 19:51:51,814 - 23JulyAutomation Framework -INFO - Click in add new customer tab
+2022-12-23 19:51:51,906 - 23JulyAutomation Framework -INFO - Enter customer name
+2022-12-23 19:51:51,944 - 23JulyAutomation Framework -INFO - Select gender
+2022-12-23 19:51:52,250 - 23JulyAutomation Framework -INFO - Select DOB
+2022-12-23 19:51:52,333 - 23JulyAutomation Framework -INFO - Enter address
+2022-12-23 19:51:52,405 - 23JulyAutomation Framework -INFO - Select City
+2022-12-23 19:51:52,449 - 23JulyAutomation Framework -INFO - Select state
+2022-12-23 19:51:52,507 - 23JulyAutomation Framework -INFO - Enter Pin number
+2022-12-23 19:51:52,548 - 23JulyAutomation Framework -INFO - Enter mobile number
+2022-12-23 19:51:52,599 - 23JulyAutomation Framework -INFO - Enter email address
+2022-12-23 19:51:52,656 - 23JulyAutomation Framework -INFO - Enter Passowrd 
+2022-12-23 19:51:55,847 - 23JulyAutomation Framework -INFO - User Created
+2022-12-23 19:52:13,275 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-23 19:52:13,280 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-23 19:52:14,668 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-23 19:52:14,941 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-23 19:52:19,131 - 23JulyAutomation Framework -INFO - Test case passed
+2022-12-24 00:06:20,464 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-24 00:06:21,119 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-24 00:06:21,332 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-24 00:06:26,231 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-24 00:06:28,854 - 23JulyAutomation Framework -INFO - Click on New Account tab
+2022-12-24 00:06:31,455 - 23JulyAutomation Framework -INFO - Click on New Account tab
+2022-12-24 00:06:31,548 - 23JulyAutomation Framework -INFO - Enter Customer ID
+2022-12-24 00:06:31,837 - 23JulyAutomation Framework -INFO - Enter deposit value
+2022-12-24 00:06:35,889 - 23JulyAutomation Framework -INFO - Click on the submit button
+2022-12-24 00:06:36,048 - 23JulyAutomation Framework -INFO - Account Created
+2022-12-24 00:06:58,839 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-24 00:06:58,846 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-24 00:06:59,310 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-24 00:06:59,920 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-24 00:07:03,910 - 23JulyAutomation Framework -INFO - Login Passed
+2022-12-24 00:07:30,963 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-24 00:07:30,968 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-24 00:07:32,542 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-24 00:07:32,775 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-24 00:07:42,898 - 23JulyAutomation Framework -INFO - LoginFailed
+2022-12-24 00:08:00,999 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-24 00:08:01,009 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-24 00:08:01,527 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-24 00:08:01,682 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-24 00:08:10,382 - 23JulyAutomation Framework -INFO - LoginFailed
+2022-12-24 00:08:26,661 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-24 00:08:26,664 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-24 00:08:27,177 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-24 00:08:27,577 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-24 00:08:35,911 - 23JulyAutomation Framework -INFO - LoginFailed
+2022-12-24 00:08:54,886 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-24 00:08:54,897 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-24 00:08:55,380 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-24 00:08:56,365 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-24 00:09:05,196 - 23JulyAutomation Framework -INFO - LoginFailed
+2022-12-24 00:09:22,646 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-24 00:09:22,654 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-24 00:09:23,949 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-24 00:09:24,170 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-24 00:09:28,794 - 23JulyAutomation Framework -INFO - Click in add new customer tab
+2022-12-24 00:09:32,408 - 23JulyAutomation Framework -INFO - Click in add new customer tab
+2022-12-24 00:09:32,489 - 23JulyAutomation Framework -INFO - Enter customer name
+2022-12-24 00:09:32,535 - 23JulyAutomation Framework -INFO - Select gender
+2022-12-24 00:09:32,849 - 23JulyAutomation Framework -INFO - Select DOB
+2022-12-24 00:09:32,945 - 23JulyAutomation Framework -INFO - Enter address
+2022-12-24 00:09:33,044 - 23JulyAutomation Framework -INFO - Select City
+2022-12-24 00:09:33,084 - 23JulyAutomation Framework -INFO - Select state
+2022-12-24 00:09:33,125 - 23JulyAutomation Framework -INFO - Enter Pin number
+2022-12-24 00:09:33,167 - 23JulyAutomation Framework -INFO - Enter mobile number
+2022-12-24 00:09:33,219 - 23JulyAutomation Framework -INFO - Enter email address
+2022-12-24 00:09:33,269 - 23JulyAutomation Framework -INFO - Enter Passowrd 
+2022-12-24 00:09:36,841 - 23JulyAutomation Framework -INFO - User Created
+2022-12-24 00:09:54,843 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-24 00:09:54,859 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-24 00:09:55,386 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-24 00:09:56,506 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-24 00:10:01,042 - 23JulyAutomation Framework -INFO - Test case passed
+2022-12-25 09:48:58,118 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-25 09:48:58,716 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-25 09:48:58,857 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-25 09:49:03,299 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-25 09:49:03,592 - 23JulyAutomation Framework -INFO - Click on New Account tab
+2022-12-25 09:49:07,152 - 23JulyAutomation Framework -INFO - Click on New Account tab
+2022-12-25 09:49:07,212 - 23JulyAutomation Framework -INFO - Enter Customer ID
+2022-12-25 09:49:07,255 - 23JulyAutomation Framework -INFO - Enter deposit value
+2022-12-25 09:49:10,404 - 23JulyAutomation Framework -INFO - Click on the submit button
+2022-12-25 09:49:10,440 - 23JulyAutomation Framework -INFO - Account Created
+2022-12-25 09:49:29,582 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-25 09:49:29,588 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-25 09:49:30,168 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-25 09:49:31,427 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-25 09:49:34,829 - 23JulyAutomation Framework -INFO - Login Passed
+2022-12-25 09:50:01,795 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-25 09:50:01,802 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-25 09:50:02,268 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-25 09:50:03,016 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-25 09:50:10,617 - 23JulyAutomation Framework -INFO - LoginFailed
+2022-12-25 09:50:44,639 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-25 09:50:44,648 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-25 09:50:44,935 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-25 09:50:45,540 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-25 09:50:54,273 - 23JulyAutomation Framework -INFO - LoginFailed
+2022-12-25 09:51:11,227 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-25 09:51:11,231 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-25 09:51:11,855 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-25 09:51:12,243 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-25 09:51:21,872 - 23JulyAutomation Framework -INFO - LoginFailed
+2022-12-25 09:51:40,352 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-25 09:51:40,355 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-25 09:51:40,805 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-25 09:51:40,949 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-25 09:51:50,764 - 23JulyAutomation Framework -INFO - LoginFailed
+2022-12-25 09:52:10,624 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-25 09:52:10,631 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-25 09:52:10,919 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-25 09:52:11,009 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-25 09:52:17,609 - 23JulyAutomation Framework -INFO - Click in add new customer tab
+2022-12-25 09:52:21,115 - 23JulyAutomation Framework -INFO - Click in add new customer tab
+2022-12-25 09:52:21,186 - 23JulyAutomation Framework -INFO - Enter customer name
+2022-12-25 09:52:21,242 - 23JulyAutomation Framework -INFO - Select gender
+2022-12-25 09:52:21,546 - 23JulyAutomation Framework -INFO - Select DOB
+2022-12-25 09:52:21,624 - 23JulyAutomation Framework -INFO - Enter address
+2022-12-25 09:52:21,682 - 23JulyAutomation Framework -INFO - Select City
+2022-12-25 09:52:21,717 - 23JulyAutomation Framework -INFO - Select state
+2022-12-25 09:52:21,752 - 23JulyAutomation Framework -INFO - Enter Pin number
+2022-12-25 09:52:21,786 - 23JulyAutomation Framework -INFO - Enter mobile number
+2022-12-25 09:52:21,834 - 23JulyAutomation Framework -INFO - Enter email address
+2022-12-25 09:52:21,892 - 23JulyAutomation Framework -INFO - Enter Passowrd 
+2022-12-25 09:52:25,076 - 23JulyAutomation Framework -INFO - User Created
+2022-12-25 09:52:41,508 - 23JulyAutomation Framework -INFO - Open URL
+2022-12-25 09:52:41,512 - 23JulyAutomation Framework -INFO - Enter Username
+2022-12-25 09:52:42,038 - 23JulyAutomation Framework -INFO - Enter Password
+2022-12-25 09:52:43,141 - 23JulyAutomation Framework -INFO - Click on login button
+2022-12-25 09:52:47,738 - 23JulyAutomation Framework -INFO - Test case passed

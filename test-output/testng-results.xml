@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-25T09:48:37 IST" name="Regression Suite" finished-at="2022-12-25T09:52:50 IST" duration-ms="253133">
+    <groups>
+    </groups>
+    <test started-at="2022-12-25T09:48:37 IST" name="Test" finished-at="2022-12-25T09:52:50 IST" duration-ms="253133">
+      <class name="Com.Banking.TestCases.TC_LoginTestCase">
+        <test-method is-config="true" signature="initialization(java.lang.String)[pri:0, instance:Com.Banking.TestCases.TC_LoginTestCase@6a03bcb1]" started-at="2022-12-25T09:52:28 IST" name="initialization" finished-at="2022-12-25T09:52:41 IST" duration-ms="13246" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="LoginTest()[pri:0, instance:Com.Banking.TestCases.TC_LoginTestCase@6a03bcb1]" started-at="2022-12-25T09:52:41 IST" name="LoginTest" finished-at="2022-12-25T09:52:47 IST" duration-ms="6242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="TearDwon()[pri:0, instance:Com.Banking.TestCases.TC_LoginTestCase@6a03bcb1]" started-at="2022-12-25T09:52:47 IST" name="TearDwon" finished-at="2022-12-25T09:52:50 IST" duration-ms="3131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDwon -->
+      </class> <!-- Com.Banking.TestCases.TC_LoginTestCase -->
+      <class name="Com.Banking.TestCases.TC_Add_NewCustomer">
+        <test-method is-config="true" signature="initialization(java.lang.String)[pri:0, instance:Com.Banking.TestCases.TC_Add_NewCustomer@610f7aa]" started-at="2022-12-25T09:51:53 IST" name="initialization" finished-at="2022-12-25T09:52:10 IST" duration-ms="16661" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="AddnewCutomaer()[pri:0, instance:Com.Banking.TestCases.TC_Add_NewCustomer@610f7aa]" started-at="2022-12-25T09:52:10 IST" name="AddnewCutomaer" finished-at="2022-12-25T09:52:25 IST" duration-ms="14501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddnewCutomaer -->
+        <test-method is-config="true" signature="TearDwon()[pri:0, instance:Com.Banking.TestCases.TC_Add_NewCustomer@610f7aa]" started-at="2022-12-25T09:52:25 IST" name="TearDwon" finished-at="2022-12-25T09:52:28 IST" duration-ms="3168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDwon -->
+      </class> <!-- Com.Banking.TestCases.TC_Add_NewCustomer -->
+      <class name="Com.Banking.TestCases.TC_LoginDataTesCase">
+        <test-method is-config="true" signature="initialization(java.lang.String)[pri:0, instance:Com.Banking.TestCases.TC_LoginDataTesCase@3098cf3b]" started-at="2022-12-25T09:49:14 IST" name="initialization" finished-at="2022-12-25T09:49:29 IST" duration-ms="15005" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="LoginData(java.lang.String,java.lang.String)[pri:0, instance:Com.Banking.TestCases.TC_LoginDataTesCase@3098cf3b]" started-at="2022-12-25T09:49:29 IST" name="LoginData" data-provider="LoginData" finished-at="2022-12-25T09:49:43 IST" duration-ms="13707" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr463946]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pUdYgEd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginData -->
+        <test-method is-config="true" signature="TearDwon()[pri:0, instance:Com.Banking.TestCases.TC_LoginDataTesCase@3098cf3b]" started-at="2022-12-25T09:49:43 IST" name="TearDwon" finished-at="2022-12-25T09:49:46 IST" duration-ms="3190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDwon -->
+        <test-method is-config="true" signature="initialization(java.lang.String)[pri:0, instance:Com.Banking.TestCases.TC_LoginDataTesCase@3098cf3b]" started-at="2022-12-25T09:49:46 IST" name="initialization" finished-at="2022-12-25T09:50:01 IST" duration-ms="15325" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="LoginData(java.lang.String,java.lang.String)[pri:0, instance:Com.Banking.TestCases.TC_LoginDataTesCase@3098cf3b]" started-at="2022-12-25T09:50:01 IST" name="LoginData" data-provider="LoginData" finished-at="2022-12-25T09:50:10 IST" duration-ms="8826" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr463947]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pUdYgEder]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginData -->
+        <test-method is-config="true" signature="TearDwon()[pri:0, instance:Com.Banking.TestCases.TC_LoginDataTesCase@3098cf3b]" started-at="2022-12-25T09:50:10 IST" name="TearDwon" finished-at="2022-12-25T09:50:13 IST" duration-ms="3141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDwon -->
+        <test-method is-config="true" signature="initialization(java.lang.String)[pri:0, instance:Com.Banking.TestCases.TC_LoginDataTesCase@3098cf3b]" started-at="2022-12-25T09:50:13 IST" name="initialization" finished-at="2022-12-25T09:50:44 IST" duration-ms="30863" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="LoginData(java.lang.String,java.lang.String)[pri:0, instance:Com.Banking.TestCases.TC_LoginDataTesCase@3098cf3b]" started-at="2022-12-25T09:50:44 IST" name="LoginData" data-provider="LoginData" finished-at="2022-12-25T09:50:54 IST" duration-ms="9646" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr4639482]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pUdYgEd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginData -->
+        <test-method is-config="true" signature="TearDwon()[pri:0, instance:Com.Banking.TestCases.TC_LoginDataTesCase@3098cf3b]" started-at="2022-12-25T09:50:54 IST" name="TearDwon" finished-at="2022-12-25T09:50:57 IST" duration-ms="3145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDwon -->
+        <test-method is-config="true" signature="initialization(java.lang.String)[pri:0, instance:Com.Banking.TestCases.TC_LoginDataTesCase@3098cf3b]" started-at="2022-12-25T09:50:57 IST" name="initialization" finished-at="2022-12-25T09:51:11 IST" duration-ms="13802" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="LoginData(java.lang.String,java.lang.String)[pri:0, instance:Com.Banking.TestCases.TC_LoginDataTesCase@3098cf3b]" started-at="2022-12-25T09:51:11 IST" name="LoginData" data-provider="LoginData" finished-at="2022-12-25T09:51:21 IST" duration-ms="10650" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr463949w]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pUdYgEdw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginData -->
+        <test-method is-config="true" signature="TearDwon()[pri:0, instance:Com.Banking.TestCases.TC_LoginDataTesCase@3098cf3b]" started-at="2022-12-25T09:51:21 IST" name="TearDwon" finished-at="2022-12-25T09:51:25 IST" duration-ms="3147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDwon -->
+        <test-method is-config="true" signature="initialization(java.lang.String)[pri:0, instance:Com.Banking.TestCases.TC_LoginDataTesCase@3098cf3b]" started-at="2022-12-25T09:51:25 IST" name="initialization" finished-at="2022-12-25T09:51:40 IST" duration-ms="15320" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="LoginData(java.lang.String,java.lang.String)[pri:0, instance:Com.Banking.TestCases.TC_LoginDataTesCase@3098cf3b]" started-at="2022-12-25T09:51:40 IST" name="LoginData" data-provider="LoginData" finished-at="2022-12-25T09:51:50 IST" duration-ms="10418" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr4639482]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pUdYgEd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginData -->
+        <test-method is-config="true" signature="TearDwon()[pri:0, instance:Com.Banking.TestCases.TC_LoginDataTesCase@3098cf3b]" started-at="2022-12-25T09:51:50 IST" name="TearDwon" finished-at="2022-12-25T09:51:53 IST" duration-ms="3137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDwon -->
+      </class> <!-- Com.Banking.TestCases.TC_LoginDataTesCase -->
+      <class name="Com.Banking.TestCases.TC_New_Account_Creation">
+        <test-method is-config="true" signature="initialization(java.lang.String)[pri:0, instance:Com.Banking.TestCases.TC_New_Account_Creation@49e5f737]" started-at="2022-12-25T09:48:37 IST" name="initialization" finished-at="2022-12-25T09:48:58 IST" duration-ms="20288" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="AddNewAccount()[pri:0, instance:Com.Banking.TestCases.TC_New_Account_Creation@49e5f737]" started-at="2022-12-25T09:48:58 IST" name="AddNewAccount" finished-at="2022-12-25T09:49:10 IST" duration-ms="12379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddNewAccount -->
+        <test-method is-config="true" signature="TearDwon()[pri:0, instance:Com.Banking.TestCases.TC_New_Account_Creation@49e5f737]" started-at="2022-12-25T09:49:10 IST" name="TearDwon" finished-at="2022-12-25T09:49:13 IST" duration-ms="3173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDwon -->
+      </class> <!-- Com.Banking.TestCases.TC_New_Account_Creation -->
+    </test> <!-- Test -->
+  </suite> <!-- Regression Suite -->
+</testng-results>
