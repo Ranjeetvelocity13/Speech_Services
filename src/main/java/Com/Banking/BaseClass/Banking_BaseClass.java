@@ -83,7 +83,7 @@ public class Banking_BaseClass {
 
 	@AfterMethod
 	public void TearDwon() throws InterruptedException {
-		//Thread.sleep(2000);
+		Thread.sleep(8000);
 		driver.close();
 
 	}
