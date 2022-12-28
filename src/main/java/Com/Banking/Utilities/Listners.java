@@ -48,6 +48,8 @@ public class Listners extends Banking_BaseClass implements ITestListener {
 		try {
 			extentTest.get().addScreenCaptureFromPath(getScreenshotAs(testmethodname),result.getMethod().getMethodName());
 		} catch (IOException e) {
+					Thread.sleep(2000);
+
 			e.printStackTrace();
 		}
 		
